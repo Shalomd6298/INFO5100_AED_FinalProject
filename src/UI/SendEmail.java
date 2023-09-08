@@ -40,8 +40,8 @@ public class SendEmail {
 	         props.put("mail.store.protocol", "pop3");
 	         props.put("mail.transport.protocol", "smtp");
                  
-	         String usr = "shalom.daniel16@vit.edu";
-	         String pwd = "vit1234$";
+	         String usr = "";
+	         String pwd = "";
                  
 	         try{
 	         Session session = Session.getInstance(props, 
