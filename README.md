@@ -6,6 +6,4 @@ Navigate to 'master' branch for code, architecture  diagram, presentation slides
 
 
 Group Members : 
-Shalom Daniel
-Aseem Deshmukh
-Nishant Patel
+Shalom Daniel, Aseem Deshmukh, Nishant Patel
