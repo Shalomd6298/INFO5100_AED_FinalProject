@@ -2,7 +2,7 @@
 
 # Java Swing application 
 
-Navigate to 'master' branch for code, architecture  diagram, presentation slides and demo video.
+Navigate to 'master' branch to view the code, architecture  diagram, presentation slides and demo video for the project.
 
 
 Group Members : 
